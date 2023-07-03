@@ -149,6 +149,17 @@ Design-System/
 - Run unit tests to verify component integrity and consistency.
 
 <br />
+
+## License
+
+<p>
+
+This project is licensed under the [MIT License](https://opensource.org/license/mit/). Feel free to use, modify and distribute it as needed.
+
+</p>
+
+<br />
+<br />
 <br />
 <h4 align="center"> 
 	🚧  Design System 💻 FINISHED  🚧
